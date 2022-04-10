@@ -5,3 +5,8 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 
 Usa este post para anotar tus expectativas de la misión.
+
+Mis expectativas para esta misión son:
+-Terminar la misión en su totalidad.
+-Aprender los principios de Back-end.
+-Aprender a utilizar nuevas tecnologías.
